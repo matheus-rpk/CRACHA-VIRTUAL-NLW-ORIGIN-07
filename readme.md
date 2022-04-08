@@ -23,11 +23,11 @@ The DoWhile Virtual Badge is a static application with the goal of showing the u
 
 ## 🔖 Layout
 
-you can view the layout of the project through [this link](https://www.figma.com/file/9Z2vxc8VTRuZpYjFalCMAl/Badge-Do-While2021-(Copy)?node-id=0%3A1). It is necessary to take account in the[Figma](https://figma.com) to access it.
+you can view the layout of the project through [this link](https://www.figma.com/file/9Z2vxc8VTRuZpYjFalCMAl/Badge-Do-While2021-(Copy)?node-id=0%3A1). It is necessary to take account in the [Figma](https://figma.com) to access it.
 
 ## :memo: License
 
-This project is under the MIT license. See the file[LICENSE](.github/LICENSE.md) for more details.
+This project is under the MIT license. See the file[LICENSE] (.github/LICENSE.md) for more details.
 ---
 
 Made with ♥ by Rocketseat :wave: [Join our community!](https://discordapp.com/invite/gCRAFhc)
