@@ -1,5 +1,5 @@
 <h1 align="center">
-  Crachá Virtual DoWhile
+ DoWhile Virtual Badge 
 </h1>                                     
 
 
@@ -7,15 +7,15 @@
 [![](https://raw.githubusercontent.com/rocketseat-education/nlw-06-discover/main/.github/Rocket_Q.png)](https://raw.githubusercontent.com/rocketseat-education/nlw-06-discover/main/.github/Rocket_Q.png)
 
 
-#   :rocket: Tecnologias
+#   :rocket: Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML
 - CSS
 - JavaScript
 
-#  :computer: Projeto
+#  :computer: Project
 
 
 O Crachá virtual DoWhile é uma aplicação estática com o objetivo de mostrar as informações do usuário trazidas do GitHub API e inseri-las em um layout com a cara do evento DoWhile 2021
