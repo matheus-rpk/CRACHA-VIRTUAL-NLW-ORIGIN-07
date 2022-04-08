@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".images/nlw-heat.png" width="100%">
+  <img alt="dev.finances" src="nlw-heat.png" width="100%">
 </p>
 
 <h1 align="center">
