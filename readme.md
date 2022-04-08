@@ -27,7 +27,7 @@ you can view the layout of the project through [this link](https://www.figma.com
 
 ## :memo: License
 
-This project is under the MIT license. See the file[LICENSE] (.github/LICENSE.md) for more details.
+This project is under the MIT license. See the file [License](.github/LICENSE.md) for more details.
 ---
 
 Made with ♥ by Rocketseat :wave: [Join our community!](https://discordapp.com/invite/gCRAFhc)
